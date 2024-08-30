@@ -1,0 +1,12 @@
+{
+  "Books": [
+    {
+      "id": "30c7",
+      "title": "Senhor dos Anéis",
+      "author": "Lucas",
+      "yr_pub": "2000",
+      "genre": "Terror",
+      "pg_num": "300"
+    }
+  ]
+}
